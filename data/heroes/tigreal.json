@@ -1,0 +1,299 @@
+{
+  "id": "006",
+  "name": "Tigreal",
+  "lore": "Tigreal is the rising star of the Moniyan Empire. But in a battle, the Second Army that he was leading went deep into the enemy territory alone under the orders of high-level officials and suffered heavy losses, for which Tigreal was eventually forced to take responsibility.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "warrior_of_dawn": {
+      "name": "Warrior of Dawn",
+      "skin_id": "00601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_warrior_of_dawn/avatars/tigreal_warrior_of_dawn_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_warrior_of_dawn/portraits/tigreal_warrior_of_dawn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_warrior_of_dawn/splash_art/tigreal_warrior_of_dawn_splash_art_default.png"
+      }
+    },
+    "dark_guardian": {
+      "name": "Dark Guardian",
+      "skin_id": "00602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_dark_guardian/avatars/tigreal_dark_guardian_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_dark_guardian/portraits/tigreal_dark_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_dark_guardian/splash_art/tigreal_dark_guardian_splash_art_default.png"
+      }
+    },
+    "fallen_guard": {
+      "name": "Fallen Guard",
+      "skin_id": "00603a",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_guard/avatars/tigreal_fallen_guard_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_guard/portraits/tigreal_fallen_guard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_guard/splash_art/tigreal_fallen_guard_splash_art_default.png"
+      }
+    },
+    "fallen_dominator": {
+      "name": "Fallen Dominator",
+      "skin_id": "00603",
+      "release_order": 3,
+      "painted_of": "Fallen Guard",
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_dominator/avatars/tigreal_fallen_dominator_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_dominator/portraits/tigreal_fallen_dominator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_fallen_dominator/splash_art/tigreal_fallen_dominator_splash_art_default.png"
+      }
+    },
+    "wyrmslayer": {
+      "name": "Wyrmslayer",
+      "skin_id": "00604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_wyrmslayer/avatars/tigreal_wyrmslayer_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_wyrmslayer/portraits/tigreal_wyrmslayer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_wyrmslayer/splash_art/tigreal_wyrmslayer_splash_art_default.png"
+      }
+    },
+    "lightborn_defender": {
+      "name": "Lightborn Defender",
+      "skin_id": "00605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_lightborn_defender/avatars/tigreal_lightborn_defender_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_lightborn_defender/portraits/tigreal_lightborn_defender_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_lightborn_defender/splash_art/tigreal_lightborn_defender_splash_art_default.png"
+      }
+    },
+    "gold_baron": {
+      "name": "Gold Baron",
+      "skin_id": "00607",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_gold_baron/avatars/tigreal_gold_baron_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_gold_baron/portraits/tigreal_gold_baron_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_gold_baron/splash_art/tigreal_gold_baron_splash_art_default.png"
+      }
+    },
+    "galactic_marshal": {
+      "name": "Galactic Marshal",
+      "skin_id": "00608",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_galactic_marshal/avatars/tigreal_galactic_marshal_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_galactic_marshal/portraits/tigreal_galactic_marshal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_galactic_marshal/splash_art/tigreal_galactic_marshal_splash_art_default.png"
+      }
+    },
+    "pasha_of_justice": {
+      "name": "Pasha of Justice",
+      "skin_id": "00609",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/tigreal/tigreal_pasha_of_justice/avatars/tigreal_pasha_of_justice_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/tigreal/tigreal_pasha_of_justice/portraits/tigreal_pasha_of_justice_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/tigreal/tigreal_pasha_of_justice/splash_art/tigreal_pasha_of_justice_splash_art_default.png"
+      }
+    }
+  }
+}

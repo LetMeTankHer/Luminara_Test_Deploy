@@ -1,0 +1,461 @@
+{
+  "id": "060",
+  "name": "Hanabi",
+  "lore": "As the owner of Higanbana, one of the seven great armaments of the Scarlet Shadow clan, Hanabi is the pride of the Scarlet Sect. To carry on her father's will, she has sought power since childhood.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "scarlet_flower": {
+      "name": "Scarlet Flower",
+      "skin_id": "06001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_scarlet_flower/avatars/hanabi_scarlet_flower_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_scarlet_flower/portraits/hanabi_scarlet_flower_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_scarlet_flower/splash_art/hanabi_scarlet_flower_splash_art_default.png"
+      }
+    },
+    "resplendent_iris": {
+      "name": "Resplendent Iris",
+      "skin_id": "06002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_resplendent_iris/avatars/hanabi_resplendent_iris_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_resplendent_iris/portraits/hanabi_resplendent_iris_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_resplendent_iris/splash_art/hanabi_resplendent_iris_splash_art_default.png"
+      }
+    },
+    "viper": {
+      "name": "Viper",
+      "skin_id": "06003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_viper/avatars/hanabi_viper_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_viper/portraits/hanabi_viper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_viper/splash_art/hanabi_viper_splash_art_default.png"
+      }
+    },
+    "emerald_viper": {
+      "name": "Emerald Viper",
+      "skin_id": "06003a",
+      "release_order": 3,
+      "painted_of": "Viper",
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_emerald_viper/avatars/hanabi_emerald_viper_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_emerald_viper/portraits/hanabi_emerald_viper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_emerald_viper/splash_art/hanabi_emerald_viper_splash_art_default.png"
+      }
+    },
+    "venom_nephila": {
+      "name": "Venom Nephila",
+      "skin_id": "06004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_venom_nephila/avatars/hanabi_venom_nephila_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_venom_nephila/portraits/hanabi_venom_nephila_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_venom_nephila/splash_art/hanabi_venom_nephila_splash_art_default.png"
+      }
+    },
+    "fiery_moth": {
+      "name": "Fiery Moth",
+      "skin_id": "06005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_fiery_moth/avatars/hanabi_fiery_moth_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_fiery_moth/portraits/hanabi_fiery_moth_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_fiery_moth/splash_art/hanabi_fiery_moth_splash_art_default.png"
+      }
+    },
+    "rakshesha": {
+      "name": "Rakshesha",
+      "skin_id": "06006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_rakshesha/avatars/hanabi_rakshesha_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_rakshesha/portraits/hanabi_rakshesha_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_rakshesha/splash_art/hanabi_rakshesha_splash_art_default.png"
+      }
+    },
+    "field_op": {
+      "name": "Field Op",
+      "skin_id": "06007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_field_op/avatars/hanabi_field_op_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_field_op/portraits/hanabi_field_op_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_field_op/splash_art/hanabi_field_op_splash_art_default.png"
+      }
+    },
+    "riverland_phoenix": {
+      "name": "Riverland Phoenix",
+      "skin_id": "06008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_riverland_phoenix/avatars/hanabi_riverland_phoenix_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_riverland_phoenix/portraits/hanabi_riverland_phoenix_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_riverland_phoenix/splash_art/hanabi_riverland_phoenix_splash_art_default.png"
+      }
+    },
+    "moonlit_ninja": {
+      "name": "Moonlit Ninja",
+      "skin_id": "06009",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_moonlit_ninja/avatars/hanabi_moonlit_ninja_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_moonlit_ninja/portraits/hanabi_moonlit_ninja_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_moonlit_ninja/splash_art/hanabi_moonlit_ninja_splash_art_default.png"
+      }
+    },
+    "vessel_of_rage": {
+      "name": "Vessel of Rage",
+      "skin_id": "06010",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_vessel_of_rage/avatars/hanabi_vessel_of_rage_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_vessel_of_rage/portraits/hanabi_vessel_of_rage_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_vessel_of_rage/splash_art/hanabi_vessel_of_rage_splash_art_default.png"
+      }
+    },
+    "vogue_glamour": {
+      "name": "Vogue Glamour",
+      "skin_id": "06011",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_vogue_glamour/avatars/hanabi_vogue_glamour_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_vogue_glamour/portraits/hanabi_vogue_glamour_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_vogue_glamour/splash_art/hanabi_vogue_glamour_splash_art_default.png"
+      }
+    },
+    "neo_glamour": {
+      "name": "Neo Glamour",
+      "skin_id": "06011a",
+      "release_order": 11,
+      "painted_of": "Vogue Glamour",
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_neo_glamour/avatars/hanabi_neo_glamour_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_neo_glamour/portraits/hanabi_neo_glamour_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_neo_glamour/splash_art/hanabi_neo_glamour_splash_art_default.png"
+      }
+    },
+    "chic_glamour": {
+      "name": "Chic Glamour",
+      "skin_id": "06011b",
+      "release_order": 11,
+      "painted_of": "Vogue Glamour",
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanabi/hanabi_chic_glamour/avatars/hanabi_chic_glamour_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/hanabi/hanabi_chic_glamour/portraits/hanabi_chic_glamour_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/hanabi/hanabi_chic_glamour/splash_art/hanabi_chic_glamour_splash_art_default.png"
+      }
+    }
+  }
+}

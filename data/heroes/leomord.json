@@ -1,0 +1,298 @@
+{
+  "id": "067",
+  "name": "Leomord",
+  "lore": "Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events. Since then, he had borne the curse of the Mist and guarded the land abandoned even by death.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "sworn_sword": {
+      "name": "Sworn Sword",
+      "skin_id": "06701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_sworn_sword/avatars/leomord_sworn_sword_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_sworn_sword/portraits/leomord_sworn_sword_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_sworn_sword/splash_art/leomord_sworn_sword_splash_art_default.png"
+      }
+    },
+    "hell_knight": {
+      "name": "Hell Knight",
+      "skin_id": "06702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_hell_knight/avatars/leomord_hell_knight_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_hell_knight/portraits/leomord_hell_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_hell_knight/splash_art/leomord_hell_knight_splash_art_default.png"
+      }
+    },
+    "frostborn_paladin": {
+      "name": "Frostborn Paladin",
+      "skin_id": "06703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_frostborn_paladin/avatars/leomord_frostborn_paladin_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_frostborn_paladin/portraits/leomord_frostborn_paladin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_frostborn_paladin/splash_art/leomord_frostborn_paladin_splash_art_default.png"
+      }
+    },
+    "triumph_eagle": {
+      "name": "Triumph Eagle",
+      "skin_id": "06704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_triumph_eagle/avatars/leomord_triumph_eagle_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_triumph_eagle/portraits/leomord_triumph_eagle_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_triumph_eagle/splash_art/leomord_triumph_eagle_splash_art_default.png"
+      }
+    },
+    "inferno_soul": {
+      "name": "Inferno Soul",
+      "skin_id": "06705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_inferno_soul/avatars/leomord_inferno_soul_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_inferno_soul/portraits/leomord_inferno_soul_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_inferno_soul/splash_art/leomord_inferno_soul_splash_art_default.png"
+      }
+    },
+    "jack_o_lantern": {
+      "name": "Jack O Lantern",
+      "skin_id": "06706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_jack_o_lantern/avatars/leomord_jack_o_lantern_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_jack_o_lantern/portraits/leomord_jack_o_lantern_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_jack_o_lantern/splash_art/leomord_jack_o_lantern_splash_art_default.png"
+      }
+    },
+    "shadow_knight": {
+      "name": "Shadow Knight",
+      "skin_id": "06707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_shadow_knight/avatars/leomord_shadow_knight_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_shadow_knight/portraits/leomord_shadow_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_shadow_knight/splash_art/leomord_shadow_knight_splash_art_default.png"
+      }
+    },
+    "diavel_v4_rider": {
+      "name": "Diavel V4 Rider",
+      "skin_id": "06708",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_diavel_v4_rider/avatars/leomord_diavel_v4_rider_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_diavel_v4_rider/portraits/leomord_diavel_v4_rider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_diavel_v4_rider/splash_art/leomord_diavel_v4_rider_splash_art_default.png"
+      }
+    },
+    "nightmare_count": {
+      "name": "Nightmare Count",
+      "skin_id": "06709",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/leomord/leomord_nightmare_count/avatars/leomord_nightmare_count_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/leomord/leomord_nightmare_count/portraits/leomord_nightmare_count_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/leomord/leomord_nightmare_count/splash_art/leomord_nightmare_count_splash_art_default.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": "113",
+  "name": "Yin",
+  "lore": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "martial_genius": {
+      "name": "Martial Genius",
+      "skin_id": "11301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_martial_genius/avatars/yin_martial_genius_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_martial_genius/portraits/yin_martial_genius_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_martial_genius/splash_art/yin_martial_genius_splash_art_default.png"
+      }
+    },
+    "fists_of_valor": {
+      "name": "Fists of Valor",
+      "skin_id": "11302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_fists_of_valor/avatars/yin_fists_of_valor_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_fists_of_valor/portraits/yin_fists_of_valor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_fists_of_valor/splash_art/yin_fists_of_valor_splash_art_default.png"
+      }
+    },
+    "m_world_yin": {
+      "name": "M World Yin",
+      "skin_id": "11303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_m_world_yin/avatars/yin_m_world_yin_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_m_world_yin/portraits/yin_m_world_yin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_m_world_yin/splash_art/yin_m_world_yin_splash_art_default.png"
+      }
+    },
+    "yuji_itadori": {
+      "name": "Yuji Itadori",
+      "skin_id": "11304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_yuji_itadori/avatars/yin_yuji_itadori_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_yuji_itadori/portraits/yin_yuji_itadori_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_yuji_itadori/splash_art/yin_yuji_itadori_splash_art_default.png"
+      }
+    },
+    "eternal_guardian": {
+      "name": "Eternal Guardian",
+      "skin_id": "11305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_eternal_guardian/avatars/yin_eternal_guardian_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_eternal_guardian/portraits/yin_eternal_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_eternal_guardian/splash_art/yin_eternal_guardian_splash_art_default.png"
+      }
+    },
+    "immortal_guardian": {
+      "name": "Immortal Guardian",
+      "skin_id": "11305a",
+      "release_order": 5,
+      "painted_of": "Eternal Guardian",
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_immortal_guardian/avatars/yin_immortal_guardian_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_immortal_guardian/portraits/yin_immortal_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_immortal_guardian/splash_art/yin_immortal_guardian_splash_art_default.png"
+      }
+    },
+    "eren": {
+      "name": "Eren",
+      "skin_id": "11306",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": {
+          "background": "",
+          "dialog": ""
+        },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yin/yin_eren/avatars/yin_eren_avatar_default.png"
+      },
+      "models": {
+        "entrance": "",
+        "in_game": "",
+        "raw": ""
+      },
+      "portraits": {
+        "default": "assets/heroes/yin/yin_eren/portraits/yin_eren_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/yin/yin_eren/splash_art/yin_eren_splash_art_default.png"
+      }
+    }
+  }
+}
