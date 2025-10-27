@@ -72,12 +72,14 @@
       "name": "Sovereign of Darks End",
       "skin_id": "13001",
       "release_order": 1,
+      "audio_type": "standard",
       "audio": {
         "hero_selection": {
-          "background": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/hero_selection/background",
-          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/hero_selection/dialog"
+          "background": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/obsidia_sovereign_of_darks_end_audio.json",
+          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json"
         },
-        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/in_game_dialog"
+        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json"
       },
       "avatars": {
         "default": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/avatars/obsidia_sovereign_of_darks_end_avatar_default.png"
@@ -104,12 +106,14 @@
       "name": "Undying Remants",
       "skin_id": "13002",
       "release_order": 2,
+      "audio_type": "variant",
       "audio": {
         "hero_selection": {
-          "background": "assets/heroes/obsidia/obsidia_undying_remnants/audio/hero_selection/background",
-          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/hero_selection/dialog"
+          "background": "assets/heroes/obsidia/obsidia_undying_remnants/audio/obsidia_undying_remnants_audio.json",
+          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json"
         },
-        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/in_game_dialog"
+        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/obsidia/obsidia_standard/audio/obsidia_standard_audio.json"
       },
       "avatars": {
         "default": "assets/heroes/obsidia/obsidia_undying_remnants/avatars/obsidia_undying_remnants_avatar_default.png"

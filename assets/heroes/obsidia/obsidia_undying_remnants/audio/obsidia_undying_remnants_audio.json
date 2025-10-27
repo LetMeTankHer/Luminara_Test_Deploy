@@ -1,0 +1,48 @@
+{
+  "hero_selection": {
+    "background": [
+      {
+        "name": "obsidia_undying_remnants_hero_select_bg",
+        "file": "assets/heroes/obsidia/obsidia_undying_remnants/audio/hero_selection/background/obsidia_undying_remnants_hero_select_bg.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Undying Remnants Hero Select Bg"
+      }
+    ],
+    "dialog": {
+      "arabic": [],
+      "bahasa_indonesia": [],
+      "chinese": [],
+      "english": [],
+      "espanol": [],
+      "japanese": [],
+      "portuguese": [],
+      "russian": [],
+      "tagalog": [],
+      "turkish": []
+    }
+  },
+  "in_game_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  },
+  "main_interface_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  }
+}
