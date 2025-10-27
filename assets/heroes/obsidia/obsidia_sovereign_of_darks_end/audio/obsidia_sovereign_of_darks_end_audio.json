@@ -1,0 +1,1496 @@
+{
+  "hero_selection": {
+    "background": [
+      {
+        "name": "obsidia_sovereign_of_darks_end_hero_select_bg",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/hero_selection/background/obsidia_sovereign_of_darks_end_hero_select_bg.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Sovereign Of Darks End Hero Select Bg"
+      }
+    ],
+    "dialog": {
+      "arabic": [],
+      "bahasa_indonesia": [],
+      "chinese": [],
+      "english": [],
+      "espanol": [],
+      "japanese": [],
+      "portuguese": [],
+      "russian": [],
+      "tagalog": [],
+      "turkish": []
+    }
+  },
+  "in_game_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  },
+  "main_interface_dialog": {
+    "arabic": [
+      {
+        "name": "obsidia_standard_main_interface_ar_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ar_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/arabic/obsidia_standard_main_interface_ar_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface 30"
+      }
+    ],
+    "bahasa_indonesia": [
+      {
+        "name": "obsidia_standard_main_interface_id_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_id_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/bahasa_indonesia/obsidia_standard_main_interface_id_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Id 30"
+      }
+    ],
+    "chinese": [],
+    "english": [
+      {
+        "name": "obsidia_standard_main_interface_en_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_en_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/english/obsidia_standard_main_interface_en_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface En 30"
+      }
+    ],
+    "espanol": [
+      {
+        "name": "obsidia_standard_main_interface_es_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_es_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/espanol/obsidia_standard_main_interface_es_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Es 30"
+      }
+    ],
+    "japanese": [
+      {
+        "name": "obsidia_standard_main_interface_ja_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ja_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/japanese/obsidia_standard_main_interface_ja_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ja 30"
+      }
+    ],
+    "portuguese": [
+      {
+        "name": "obsidia_standard_main_interface_pt_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_pt_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/portuguese/obsidia_standard_main_interface_pt_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Pt 30"
+      }
+    ],
+    "russian": [
+      {
+        "name": "obsidia_standard_main_interface_ru_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_ru_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/russian/obsidia_standard_main_interface_ru_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Ru 30"
+      }
+    ],
+    "tagalog": [],
+    "turkish": [
+      {
+        "name": "obsidia_standard_main_interface_tr_line_01",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_01.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 01"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_02",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_02.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 02"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_03",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_03.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 03"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_04",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_04.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 04"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_05",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_05.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 05"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_06",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_06.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 06"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_07",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_07.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 07"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_08",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_08.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 08"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_09",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_09.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 09"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_10",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_10.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 10"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_11",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_11.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 11"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_12",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_12.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 12"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_13",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_13.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 13"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_14",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_14.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 14"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_15",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_15.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 15"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_16",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_16.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 16"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_17",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_17.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 17"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_18",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_18.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 18"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_19",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_19.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 19"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_20",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_20.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 20"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_21",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_21.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 21"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_22",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_22.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 22"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_23",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_23.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 23"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_24",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_24.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 24"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_25",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_25.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 25"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_26",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_26.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 26"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_27",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_27.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 27"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_28",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_28.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 28"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_29",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_29.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 29"
+      },
+      {
+        "name": "obsidia_standard_main_interface_tr_line_30",
+        "file": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/main_interface_dialog/turkish/obsidia_standard_main_interface_tr_line_30.mp3",
+        "translation": "",
+        "subtitle": "Obsidia Main Interface Tr 30"
+      }
+    ]
+  }
+}
